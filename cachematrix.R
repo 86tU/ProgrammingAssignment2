@@ -38,9 +38,7 @@ cachematrix <- function(x, ...) {
   x$setinverse(i)
   i
 }
-
-
-
+  
 
 ##An example of these functions in use would be as follows:
 ##startmatrix<-matrix(1:4,2,2)
